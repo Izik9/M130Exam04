@@ -90,7 +90,7 @@ public class M130_Fall2023_PerezCuarenta_Jesus {
 		}
 	}
 
-// Problem 01
+// Problem 01 (Need 4 lines for this hehehehe)
 class Walk {
 	public static void printSequence(int N) {
 		System.out.println();
